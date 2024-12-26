@@ -8,7 +8,7 @@ Challenge is to develop an app or interface for students that allows them to cho
 ### About the Team -- IUB Astra
 We are a team of passionate students from Independent University, Bangladesh (IUB), with a shared interest in astrophysics and computer science. Our diverse skill set allows us to bridge the gap between these two fields, using innovative technologies to explore the mysteries of the universe. By combining our knowledge of space and computational expertise, we aim to create solutions that contribute to the future of space exploration and scientific discovery. United by our curiosity for the cosmos, we are excited to tackle challenges that push the boundaries of both science and technology.
 
-My Contribution: Constructing the mathematical framework for the app. 
+My Contribution: Constructing the mathematical framework for the app. Please [contact me](www.mdfardin.xyz) if anyone wants to unlock the "modeling pdf" I have uploaded.
 
 NASA Ref: https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/iub-astra/?tab=details
 
