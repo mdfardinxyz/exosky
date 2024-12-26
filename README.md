@@ -6,3 +6,5 @@ What would the night sky look like if you were standing on one of the many exopl
 Challenge is to develop an app or interface for students that allows them to choose an exoplanet and then either display an interactive star chart or export a high-quality image for printing or viewing on a computer or virtual reality display, where they can draw and name constellations. 
 
 Team: https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/iub-astra/?tab=details
+
+Timeline: September 2024 - (ongoing)
