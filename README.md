@@ -10,7 +10,7 @@ We are a team of passionate students from Independent University, Bangladesh (IU
 
 **My contribution:** Constructed the mathematical framework for the app. Please [contact me](https://www.mdfardin.xyz/author) if anyone wants to unlock the "modeling pdf" I have uploaded.
 
-NASA Ref: https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/iub-astra/?tab=details
+NASA Ref: **https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/iub-astra/?tab=details**
 
 Timeline: September 2024 - (ongoing)
 
