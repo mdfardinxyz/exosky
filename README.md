@@ -1,16 +1,15 @@
 ## Exosky | 2024 NASA Space App Challenge 
 
-### Task
-What would the night sky look like if you were standing on one of the many exoplanets discovered by astronomers and space missions? The list of 5500+ exoplanets at the NASA Exoplanet Archive can be combined with the latest star catalogs to translate the location and brightness of millions or even billions of stars to another perspective. From that perspective, anyone could use their imagination to draw constellations, much like our ancestors did on Earth thousands of years ago. 
+The image below titled "Exosky" challenges observers to visualize the night sky from one of the approximately 5500 exoplanets discovered by astronomers. The challenge was to simulate exoplanet skies using NASA Exoplanet Archive data and star catalogs. Participants had to develop an app or interface that allows users to draw constellations, visualize them on a computer or virtual reality device, or print them as high-quality images. 
 
-Challenge is to develop an app or interface for students that allows them to choose an exoplanet and then either display an interactive star chart or export a high-quality image for printing or viewing on a computer or virtual reality display, where they can draw and name constellations. 
-
-### About the Team -- IUB Astra
-We are a team of passionate students from Independent University, Bangladesh (IUB), with a shared interest in astrophysics and computer science. Our diverse skill set allows us to bridge the gap between these two fields, using innovative technologies to explore the mysteries of the universe. By combining our knowledge of space and computational expertise, we aim to create solutions that contribute to the future of space exploration and scientific discovery. United by our curiosity for the cosmos, we are excited to tackle challenges that push the boundaries of both science and technology.
+Our team was unable to participate in the global stage due to some deadline concerns. It did not prevent us from slipping behind. This project was so appealing and unique that we kept working on it and are still on it.  
 
 **My contribution:** Constructed the mathematical framework for the app. Please [**contact me**](https://www.mdfardin.xyz/author) if anyone wants to unlock the "modeling pdf" I have uploaded.
 
 NASA Ref: **https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/iub-astra/?tab=details**
 
 Timeline: September 2024 - (ongoing)
+
+![exosky](https://github.com/user-attachments/assets/96d71375-e174-4217-90ee-a850fafff06e)
+
 
